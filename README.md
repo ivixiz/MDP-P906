@@ -1,3 +1,4 @@
+
 # Miniware MDP-P906 Enclosure Reverse Engineering
 
 This repository contains a reverse-engineered 3D model of the **Miniware MDP-P906 programmable power supply enclosure**.
@@ -6,7 +7,9 @@ The goal of this project was to recreate the external enclosure dimensions and m
 
 ## Purpose
 
-The generated 3D model can be used as a mechanical reference for designing custom devices that are compatible with the Miniware MDP-P906 ecosystem.
+The generated 3D model can be used as a mechanical reference for designing custom devices that are compatible with the Miniware MDP-P906.
+<img width="2560" height="2135" alt="photo_2_2026-06-20_19-07-45" src="https://github.com/user-attachments/assets/61e1627b-9099-4c91-933d-bbb114960bc2" />
+<img width="2560" height="2311" alt="photo_1_2026-06-20_19-07-45" src="https://github.com/user-attachments/assets/93c3339f-8cfe-43f5-b42b-452f32d4a23f" />
 
 Potential use cases include:
 

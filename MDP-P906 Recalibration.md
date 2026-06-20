@@ -65,3 +65,11 @@ If the device boots but voltage/current regulation behaves incorrectly (for exam
 7. After calibration completes, restore the original `.CFG` and `.PRM` files.
 
 The power supply should now operate normally.
+
+
+# Useful screenshots
+
+<img width="3887" height="1602" alt="P_20260225_200122_1" src="https://github.com/user-attachments/assets/fd26c89f-d5fa-4e36-8607-7234970c3e91" />
+<img width="4576" height="3432" alt="MDP-P9064" src="https://github.com/user-attachments/assets/bf143e2e-9440-4f4c-8abc-12fed9c7540f" />
+<img width="4576" height="3432" alt="MDP-P9065" src="https://github.com/user-attachments/assets/92014963-5eff-4b15-a5cb-e2df7967e702" />
+<img width="1638" height="975" alt="MDP-P9066" src="https://github.com/user-attachments/assets/86ca0639-1a7e-49cf-b155-7cb4f8613e49" />
